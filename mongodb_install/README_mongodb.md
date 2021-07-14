@@ -7,6 +7,7 @@
 * The database is bind-mounted to the volume /Teach-ReactiveSpring/mongodb_install/database
 
 # Interact with MongoDB
+* docker-compose up -d
 * docker exec -it mongodb bash
 * in the container, type these commands
     * mongo
